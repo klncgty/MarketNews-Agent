@@ -16,7 +16,7 @@ class MarketDecision(BaseModel):
 # LLM oluşturuluyor; response_format ile çıktının MarketDecision modeline parse edilmesi sağlanıyor.
 llm = LLM(
     model="groq/llama3-8b-8192",
-    api_key="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",
+    api_key=api_key,
     response_format=MarketDecision
 )
 
