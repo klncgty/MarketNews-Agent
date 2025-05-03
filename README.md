@@ -1,4 +1,4 @@
-# CryptoNewsTrader
+# Market News
 
 A Python project that collects the latest cryptocurrency news from RSS feeds (Google News, CoinDesk, Cointelegraph) and analyzes them using an AI agent to provide a "buy" or "sell" market decision.
 
