@@ -12,7 +12,7 @@ A Python project that collects the latest cryptocurrency news from RSS feeds (Go
 - Install dependencies: `pip install crewai requests`
 
 ## Usage
-1. Clone the repo: `git clone https://github.com/<your-username>/CryptoNewsTrader.git`
+1. Clone the repo: `git clone [https://github.com/<your-username>/CryptoNewsTrader.git](https://github.com/klncgty/MarketNews-Agent/tree/main)`
 2. Set up your Grok API key in the script.
 3. Run the script: `python main.py`
 
