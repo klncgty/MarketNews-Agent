@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 from litellm import RateLimitError
 from litellm import completion
 
-llm = LLM(model="openrouter/deepseek/deepseek-r1",base_url="https://openrouter.ai/api/v1", api_key="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")
+llm = LLM(model="openrouter/deepseek/deepseek-r1",base_url="https://openrouter.ai/api/v1", api_key=api_key)
 
 source_names = {
     "https://news.google.com/rss/search?q=crypto": "Google News",
