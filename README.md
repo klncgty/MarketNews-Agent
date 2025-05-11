@@ -4,7 +4,7 @@ A Python project that collects the latest cryptocurrency news from RSS feeds (Go
 
 ## Features
 - Fetches crypto news from multiple RSS sources.
-- Analyzes news sentiment using CrewAI and Grok LLM.
+- Analyzes news sentiment using CrewAI and groq LLM.
 - Outputs a simple JSON decision: {"decision": "buy"} or {"decision": "sell"}.
 
 ## Requirements
